@@ -1,0 +1,2 @@
+# ASUS-ROG-STRIX-B250G-GAMING
+Hackintosh-EFI
